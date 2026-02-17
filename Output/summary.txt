@@ -1,0 +1,14 @@
+Trader Sentiment Analysis Summary
+
+Model Accuracy:
+0.7517
+
+Key Insights:
+- Trader performance varies across sentiment regimes
+- Trade size and frequency change based on sentiment
+- Historical trader performance predicts future profitability
+
+Strategy Recommendations:
+- Reduce leverage during Fear sentiment
+- Increase trend-following during Greed sentiment
+- Follow consistently profitable traders
