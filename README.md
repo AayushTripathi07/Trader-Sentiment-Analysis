@@ -142,31 +142,6 @@ The model uses historical performance and behavioral features along with sentime
 
 ---
 
-## Project Structure
-
-project/
-│
-├── trader_sentiment_analysis.py
-├── README.md
-│
-├── output/
-│ ├── charts/
-│ │ ├── pnl_vs_sentiment.png
-│ │ ├── trade_frequency_vs_sentiment.png
-│ │ ├── trade_size_vs_sentiment.png
-│ │
-│ ├── daily_pnl.csv
-│ ├── win_rate.csv
-│ ├── trade_frequency.csv
-│ ├── sentiment_summary.csv
-│ ├── trader_segments.csv
-│ ├── features.csv
-│ ├── model_metrics.txt
-│ ├── summary.txt
-
-
----
-
 ## How to Run
 
 ### Install dependencies
